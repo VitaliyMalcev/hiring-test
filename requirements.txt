@@ -1,1 +1,5 @@
 tqdm
+tensorflow
+keras
+pymystem3
+pandas
