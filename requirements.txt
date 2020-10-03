@@ -3,3 +3,4 @@ tensorflow
 keras
 pymystem3
 pandas
+pickle
