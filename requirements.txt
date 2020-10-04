@@ -3,4 +3,5 @@ tensorflow
 keras
 pymystem3
 pandas
+numpy
 pickle
